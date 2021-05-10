@@ -1,2 +1,0 @@
-main:
-  javac buggyj.java
